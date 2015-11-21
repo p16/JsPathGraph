@@ -14,6 +14,10 @@ edges = [
 ]
 ```
 
+## Output
+
+The has the same format as the input, but sorted :)
+
 ## Running the tests
 
 ```
