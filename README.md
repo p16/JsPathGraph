@@ -14,6 +14,8 @@ edges = [
 ]
 ```
 
+**Note: `from` and `to` are mandatory, but each object can contains also other properties that will be preserved**
+
 ## Output
 
 The has the same format as the input, but sorted :)
