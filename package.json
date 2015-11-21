@@ -1,0 +1,26 @@
+{
+  "name": "PathGraph",
+  "version": "1.0.0",
+  "description": "Sorting edges into a path graph without cycles",
+  "main": "src/pathGraph.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "graph",
+    "pathgraph",
+    "sort"
+  ],
+  "author": "Filippo De Santis <filippo.desantis@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
