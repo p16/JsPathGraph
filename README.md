@@ -36,3 +36,7 @@ The unordered edges array is scanned 4 times:
 - calculate the In-degree of the nodes
 - select the starting point
 - pick the next ordered edge
+
+# License
+
+Licensed under the [MIT license](http://opensource.org/licenses/MIT)
